@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Patrick Fischer</title>
+        <link>https://patFish.github.io/</link>
+        <description>About LoveIt Theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>fischer.pa7rick@gmail.com (Patrick)</managingEditor>
+            <webMaster>fischer.pa7rick@gmail.com (Patrick)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <atom:link href="https://patFish.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
