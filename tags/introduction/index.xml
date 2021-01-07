@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Documentation - Category - Patrick Fischer</title>
-        <link>https://patFish.github.io/categories/documentation/</link>
-        <description>Documentation - Category - Patrick Fischer</description>
+        <title>introduction - Tag - Patrick Fischer</title>
+        <link>https://patFish.github.io/tags/introduction/</link>
+        <description>introduction - Tag - Patrick Fischer</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>fischer.pa7rick@gmail.com (Patrick)</managingEditor>
-            <webMaster>fischer.pa7rick@gmail.com (Patrick)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://patFish.github.io/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>fischer.pa7rick@gmail.com (Patrick)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 02 Aug 2020 03:04:49 &#43;0000</lastBuildDate><atom:link href="https://patFish.github.io/tags/introduction/" rel="self" type="application/rss+xml" /><item>
     <title>About me</title>
     <link>https://patFish.github.io/about/</link>
     <pubDate>Sun, 02 Aug 2020 03:04:49 &#43;0000</pubDate>
